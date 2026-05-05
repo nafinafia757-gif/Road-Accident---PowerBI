@@ -26,7 +26,8 @@ The report is divided into two pages:
 ## Dataset:
 The dataset used for this project is taken from the official Government of India open data portal:
 
- Open Government Data Platform India (data.gov.in)
+ Source: Open Government Data (OGD) Platform India – https://data.gov.in/
+ 
 You can access the dataset here:
 Road Accident Data – https://drive.google.com/file/d/1xlDFthesZfBQdCDbQ7hi9GeAtmtfF8GL/view?usp=sharing
 
