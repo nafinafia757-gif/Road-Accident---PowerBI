@@ -128,3 +128,6 @@ Microsoft Excel — Data cleaning
 ## Conclusion:
 
 This dashboard helps to quickly understand accident trends, risky regions, and major causes, which can support awareness and decision-making for road safety improvements.
+
+### Video Explanation:
+https://drive.google.com/file/d/1rCy2XqSc0QlRMW-Ub9ZeiNdJzNvropNm/view?usp=sharing
